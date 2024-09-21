@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About TechCon 2024</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link your stylesheet here -->
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>About TechCon 2024</h1>
+        <!-- Navigation Menu -->
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="schedule.html">Schedule</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <!-- History Article -->
+        <article>
+            <h2>History of TechCon</h2>
+            <p>TechCon was founded in 2010 with the mission of bringing together leading innovators and thinkers in the tech industry. Over the years, it has evolved into one of the most important conferences for tech professionals and enthusiasts worldwide.</p>
+            <img src="images/history.jpg" alt="Historical image of the TechCon event" width="600">
+        </article>
+
+        <!-- Mission Article -->
+        <article>
+            <h2>Mission</h2>
+            <p>Our mission is to inspire and educate technology professionals by providing them with the resources and networks they need to create groundbreaking innovations. TechCon promotes diversity, inclusivity, and progress within the tech industry.</p>
+            <img src="images/mission.jpg" alt="Image representing TechCon mission" width="600">
+        </article>
+
+        <!-- Past Speakers Article -->
+        <article>
+            <h2>Notable Past Speakers</h2>
+            <section>
+                <h3>Elon Musk</h3>
+                <p>Elon Musk, the visionary behind companies like Tesla and SpaceX, shared his thoughts on the future of technology and space exploration during his keynote speech in 2021.</p>
+                <img src="images/elon-musk.jpg" alt="Elon Musk speaking at TechCon" width="300">
+            </section>
+
+            <section>
+                <h3>Sheryl Sandberg</h3>
+                <p>In 2019, Sheryl Sandberg, COO of Meta (formerly Facebook), talked about the importance of leadership and technology in shaping the future.</p>
+                <img src="images/sheryl-sandberg.jpg" alt="Sheryl Sandberg at TechCon 2019" width="300">
+            </section>
+        </article>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 TechCon. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
